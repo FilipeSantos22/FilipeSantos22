@@ -1,4 +1,4 @@
-### Olá! Sou o Filipe Gomes dos Santos 👋
+### Hello! I'm Filipe Gomes dos Santos 👋
 
 
 - 🔭 currently i am working as an intern in software development.
