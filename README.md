@@ -1,7 +1,7 @@
 ### Hello! I'm Filipe Gomes dos Santos 👋
 
 
-- 🔭 currently i am working as an intern in software development.
+- 🔭 Software developer with over 2 years of experience.
 - 📫 Contact me at email: filipedev22@gmail.com
 
 <div style="display: inline_block"><br>
