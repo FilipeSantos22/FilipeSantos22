@@ -1,6 +1,6 @@
 ### Hello! I'm Filipe Gomes dos Santos 👋
 
-- 💻 Software Developer with over 2 years of experience.  
+- 💻 Software Developer with over 3 years of experience.  
 - ⚙️ Passionate about web development, clean code, and learning new technologies.  
 - 📫 Contact me at: **filipedev22@gmail.com**
 
